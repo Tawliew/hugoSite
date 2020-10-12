@@ -186,16 +186,16 @@ theme = "aafu"
 
         [[params.skill.list]]
             skill = "Linux"
-            skillrating = 50
+            skillrating = 45
         [[params.skill.list]]
             skill = "Git"
-            skillrating = 50
+            skillrating = 65
         [[params.skill.list]]
             skill = "HTML,CSS"
             skillrating = 70
         [[params.skill.list]]
             skill = "JS"
-            skillrating = 70
+            skillrating = 40
     # Hobby section
     [params.hobby]
         title = "Hobbies"
